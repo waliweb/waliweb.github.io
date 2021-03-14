@@ -1,0 +1,24 @@
+html {
+    color: ghostwhite;
+    font-size: 20px;
+    font-family: 'Recursive', sans-serif;
+    background-color: black;
+}
+
+p, h2 {
+    width: 200px;
+    margin: 0 250px auto;
+}
+
+h3 {
+    margin: 100px auto;
+}
+h1{
+    margin: -73px 100px;
+}
+
+img {
+    display: block;
+    margin: 0;
+    width: 100px
+}
